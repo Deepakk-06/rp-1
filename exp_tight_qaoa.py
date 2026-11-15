@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_tight_qaoa.py: RQ6, QAOA against SA and greedy on the tight-capacity family (R=2)
+_BUILD_ID = "774df408b6c848170460c6f7fa348436"
 import numpy as np
 from exp_common import *
 from step2_qaoa import QAOASim

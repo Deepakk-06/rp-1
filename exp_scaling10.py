@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_scaling10.py: RQ4, scaling with problem size, plus the optimizer-budget study
+_BUILD_ID = "c7da08e7aa96f4d53cbb864c6fb79984"
 import time, numpy as np
 from exp_common import *
 from step2_qaoa import QAOASim

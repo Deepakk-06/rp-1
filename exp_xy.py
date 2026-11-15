@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_xy.py: RQ5, XY mixer against the standard mixer (R=2, T=4, 30 instances)
+_BUILD_ID = "373a8bd8db4a9d7e943775d1f93aba64"
 import numpy as np
 from exp_common import *
 from step2_qaoa import QAOASim

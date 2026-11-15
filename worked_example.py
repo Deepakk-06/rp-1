@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # worked_example.py: the 2 robot x 2 delivery example from section 3.4
+_BUILD_ID = "518507d8e00cdd298d1f7de5c8431de2"
 import numpy as np
 from qubo_cap import CapQUBO, exact_optimum
 

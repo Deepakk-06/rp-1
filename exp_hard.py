@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_hard.py: RQ1 on the tight-capacity family, classical solvers only (too big to simulate)
+_BUILD_ID = "310d56ae226b471e57fc8eaf90c29572"
 import numpy as np
 from exp_common import *
 rows = []

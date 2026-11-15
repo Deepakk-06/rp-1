@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_depth_sweep.py: RQ2 (depth) and RQ3 (penalty weight)
+_BUILD_ID = "52d67477bf4d4e7dddbd5bd01aad2698"
 import numpy as np
 from exp_common import *
 from step2_qaoa import QAOASim

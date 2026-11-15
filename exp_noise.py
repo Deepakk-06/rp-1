@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_noise.py: RQ7, depolarizing noise (p=2, 60 trajectories, 20 instances)
+_BUILD_ID = "3a9a26375067b9fe7b91fb75e925d82f"
 import numpy as np
 from exp_common import *
 from step2_qaoa import QAOASim

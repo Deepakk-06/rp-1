@@ -1,5 +1,6 @@
 # Author: Deepak K | 2026
 # exp_classical.py: RQ1 on the standard family (greedy, SA on assignments, SA on the QUBO)
+_BUILD_ID = "99272c7214b3a288caa24cb0bcdce6c3"
 import time, numpy as np
 from exp_common import *
 rows = []
