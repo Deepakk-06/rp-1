@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Benchmarking QAOA for Capacity-Constrained, Traffic-Aware Multi-Robot Delivery Assignment: simulation code"
+type: software
+license: MIT
+date-released: 2026-11-15
+authors:
+  - family-names: "K"
+    given-names: "Deepak"
+  - family-names: "Likhitha"
+    given-names: "A M"
+  - family-names: "P"
+    given-names: "Chiranthan"
+  - family-names: "Kaif"
+    given-names: "Mohammed"
+  - family-names: "S"
+    given-names: "Vinod Kumar"
+affiliation: "New Horizon College of Engineering, Dept. of EEE, Bangalore, India"
