@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # exp_xy.py: RQ5, XY mixer against the standard mixer (R=2, T=4, 30 instances)
 import numpy as np
 from exp_common import *

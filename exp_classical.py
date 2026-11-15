@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # exp_classical.py: RQ1 on the standard family (greedy, SA on assignments, SA on the QUBO)
 import time, numpy as np
 from exp_common import *

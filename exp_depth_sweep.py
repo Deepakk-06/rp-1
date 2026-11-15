@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # exp_depth_sweep.py: RQ2 (depth) and RQ3 (penalty weight)
 import numpy as np
 from exp_common import *

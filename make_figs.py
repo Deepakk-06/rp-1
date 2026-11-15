@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # make_figs.py: regenerates Figures 1 to 9 from the csv files in results/
 import os, numpy as np
 import matplotlib; matplotlib.use("Agg")

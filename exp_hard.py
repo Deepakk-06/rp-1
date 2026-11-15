@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # exp_hard.py: RQ1 on the tight-capacity family, classical solvers only (too big to simulate)
 import numpy as np
 from exp_common import *

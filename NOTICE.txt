@@ -1,5 +1,4 @@
-Copyright (c) 2026 Deepak K, A M Likhitha, Chiranthan P, Mohammed Kaif
+Copyright (c) 2026 Deepak K
 New Horizon College of Engineering, Dept. of EEE, Bangalore
-Guide: Vinod Kumar S
 
 Released under the MIT License (see LICENSE). The copyright notice and the author lines at the top of each file must be kept in any copy or modified version.

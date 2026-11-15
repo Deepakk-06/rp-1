@@ -7,12 +7,4 @@ date-released: 2026-11-15
 authors:
   - family-names: "K"
     given-names: "Deepak"
-  - family-names: "Likhitha"
-    given-names: "A M"
-  - family-names: "P"
-    given-names: "Chiranthan"
-  - family-names: "Kaif"
-    given-names: "Mohammed"
-  - family-names: "S"
-    given-names: "Vinod Kumar"
-affiliation: "New Horizon College of Engineering, Dept. of EEE, Bangalore, India"
+    affiliation: "New Horizon College of Engineering, Dept. of EEE, Bangalore, India"

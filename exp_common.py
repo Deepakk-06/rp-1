@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # exp_common.py: shared helpers (MILP optimum, greedy, both SA versions, metrics, stats, csv)
 _BUILD_ID = "2b779667621f12e568df40b0010be039"
 __author__ = "Deepak K"

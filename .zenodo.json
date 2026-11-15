@@ -3,11 +3,7 @@
   "upload_type": "software",
   "license": "MIT",
   "creators": [
-    {"name": "K, Deepak", "affiliation": "New Horizon College of Engineering, Bangalore"},
-    {"name": "Likhitha, A M", "affiliation": "New Horizon College of Engineering, Bangalore"},
-    {"name": "P, Chiranthan", "affiliation": "New Horizon College of Engineering, Bangalore"},
-    {"name": "Kaif, Mohammed", "affiliation": "New Horizon College of Engineering, Bangalore"},
-    {"name": "S, Vinod Kumar", "affiliation": "New Horizon College of Engineering, Bangalore"}
+    {"name": "K, Deepak", "affiliation": "New Horizon College of Engineering, Bangalore"}
   ],
   "keywords": ["QAOA", "QUBO", "multi-robot task assignment", "benchmarking"]
 }

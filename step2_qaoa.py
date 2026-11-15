@@ -1,5 +1,4 @@
 # Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
-# Project team: A M Likhitha, Chiranthan P, Mohammed Kaif | Guide: Vinod Kumar S
 # step2_qaoa.py: noiseless statevector QAOA, the XY-mixer variant and the Pauli noise model (paper sections 3.5 and 3.6)
 _BUILD_ID = "70ce41f300614435be6d72a8f728cd09"
 __author__ = "Deepak K"
