@@ -3,7 +3,7 @@
   "upload_type": "software",
   "license": "MIT",
   "creators": [
-    {"name": "K, Deepak", "affiliation": "New Horizon College of Engineering, Bangalore"}
+    {"name": "K, Deepak"}
   ],
   "keywords": ["QAOA", "QUBO", "multi-robot task assignment", "benchmarking"]
 }

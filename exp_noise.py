@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # exp_noise.py: RQ7, depolarizing noise (p=2, 60 trajectories, 20 instances)
 import numpy as np
 from exp_common import *

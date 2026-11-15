@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # qubo_cap.py: QUBO encoding of the capacity-limited, traffic-aware delivery assignment (paper section 3)
 _BUILD_ID = "776422257ef5b411ca051edbeb65e840"
 __author__ = "Deepak K"

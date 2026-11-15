@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # exp_scaling10.py: RQ4, scaling with problem size, plus the optimizer-budget study
 import time, numpy as np
 from exp_common import *

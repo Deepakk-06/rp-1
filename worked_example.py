@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # worked_example.py: the 2 robot x 2 delivery example from section 3.4
 import numpy as np
 from qubo_cap import CapQUBO, exact_optimum

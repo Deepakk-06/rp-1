@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # exp_tight_qaoa.py: RQ6, QAOA against SA and greedy on the tight-capacity family (R=2)
 import numpy as np
 from exp_common import *

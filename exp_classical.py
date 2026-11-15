@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # exp_classical.py: RQ1 on the standard family (greedy, SA on assignments, SA on the QUBO)
 import time, numpy as np
 from exp_common import *

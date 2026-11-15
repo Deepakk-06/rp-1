@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # run_all.sh: runs every experiment one after another (about 50 minutes on one CPU core)
 cd "$(dirname "$0")"
 # the file each script writes, used to skip experiments that already finished

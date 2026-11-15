@@ -1,4 +1,4 @@
-# Author: Deepak K | New Horizon College of Engineering, Dept. of EEE, Bangalore | 2026
+# Author: Deepak K | 2026
 # analyze.py: all the statistics and tables, writes results/results_summary.md and numbers.json
 import json, math, numpy as np
 from exp_common import *
