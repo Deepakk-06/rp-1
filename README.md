@@ -13,4 +13,6 @@ Needs Python 3, numpy, scipy and matplotlib.
     python3 make_figs.py        # figures 1 to 9
 
 ## Cite
+Repository: https://github.com/Deepakk-06/rp-1
+
 See CITATION.cff. Released under the MIT License (see LICENSE and NOTICE.txt).
